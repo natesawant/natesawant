@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
-<h3 align="center">A student software engineer at Northeastern University!</h3>
+<h3 align="center">A software engineer studying at Northeastern University!</h3>
 
 - 🔭 I’m currently working on **Voxeti, a 3D printing website**
 
