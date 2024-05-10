@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A software engineer studying at Northeastern University!</h3>
 
-- 🔭 I’m currently working on **Voxeti, a 3D printing website**
+- 🔭 I’m currently working on **[Generate Routes](https://github.com/GenerateNU/routes) and the [NUHOC Hub](https://github.com/nuhoc/hub)**
 
-- 🌱 I’m currently learning **embedded & web development**
+- 🌱 I’m currently learning **game & web development**
 
 - 📫 How to reach me: **natesawant@gmail.com**
 
